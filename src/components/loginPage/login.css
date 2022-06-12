@@ -1,0 +1,10 @@
+.h1{
+    text-align: center;
+}
+.container-form{
+    border: solid 1px red;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    padding-top: 15px;
+}

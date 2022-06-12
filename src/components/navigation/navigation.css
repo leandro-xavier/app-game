@@ -1,0 +1,20 @@
+.barra-de-navegacion{
+    border: solid 1px red;
+}
+.logo{
+    border: solid 1px red;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 150px;
+}
+
+.lista-principal{
+    border: solid 1px red;
+}
+
+.lista{
+    list-style: none;
+    display: inline-block;
+    border: solid 1px red;
+    margin: 25px;
+}

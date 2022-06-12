@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid red;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.aside{
+    width: 25%;
+    border: 1px solid red;
+    height: 550px;
+}
+
+.content{
+    border: 1px solid red;
+    width: 75%;
+}
